@@ -1,4 +1,4 @@
-# mlops_final_project
+# Machine Learning Operations Final Project
 
 ## Project Architecture
 ![3](images/archi.png)
